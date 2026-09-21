@@ -12,7 +12,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Estác
 ## 🚀 Status do Projeto & Roadmap
 - [x] **Fase 1:** Lógica inicial básica (leitura e comparação com `if / else if / else`)
 - [x] **Fase 2:** Contadores de votos individuais, voto em branco (`0`), voto nulo, laço contínuo (`while`) e apuração final
-- [ ] **Fase 3:** Confirmação de voto (regras de `CONFIRMA` / `CORRIGE`) e limpeza de tela entre eleitores
+- [x] **Fase 3:** Confirmação de voto (regras de `CONFIRMA` / `CORRIGE`) e limpeza de tela entre eleitores
 - [ ] **Fase 4:** Refatoração da arquitetura usando `struct` e vetores (`arrays`) para múltiplos candidatos
 - [ ] **Fase 5:** Emissão de Boletim de Urna completo com cálculo percentual de votos válidos
 
@@ -26,7 +26,7 @@ Durante a votação, o terminal solicita o voto de cada eleitor:
 * Qualquer outro número positivo: **Voto Nulo**
 * Digite **`-1`**: Encerra a eleição e emite o resultado da apuração
 
----
+--- 
 
 ## 🧠 Conceitos de Programação Praticados
 * Variáveis e tipos de dados primitivos (`int`)
